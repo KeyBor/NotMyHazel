@@ -1,5 +1,5 @@
 #include "Hazel.h"
-
+#include "Hazel/Log.h"
 
 class Sandbox: public Hazel::Application {
 public:
